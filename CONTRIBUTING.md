@@ -5,7 +5,7 @@ Thank you for your interest in contributing to STORM!
 Contributions aren't just about code. Currently (last edit: 7/22/2024), we are accepting the following forms of contribution:
 - Pull requests for additional language model support to `knowledge_storm/lm.py`.
 - Pull requests for additional retrieval model/search engine support to `knowledge_storm/rm.py`.
-- Pull requests for new features to `frontend/demo_light` to assist other developers.
+- Pull requests for new features to `frontend/demo_light` to assist niother developers.
 - Identification and reporting of issues or bugs.
 - Helping each other by responding to issues.
 
